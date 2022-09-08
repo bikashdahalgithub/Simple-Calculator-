@@ -1,0 +1,15 @@
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.csproj.AssemblyReference.cache
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.AssemblyInfoInputs.cache
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.AssemblyInfo.cs
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.csproj.CoreCompileInputs.cache
+/home/aman/Simplecalculator/bin/Debug/net6.0/Simplecalculator
+/home/aman/Simplecalculator/bin/Debug/net6.0/Simplecalculator.deps.json
+/home/aman/Simplecalculator/bin/Debug/net6.0/Simplecalculator.runtimeconfig.json
+/home/aman/Simplecalculator/bin/Debug/net6.0/Simplecalculator.dll
+/home/aman/Simplecalculator/bin/Debug/net6.0/Simplecalculator.pdb
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.dll
+/home/aman/Simplecalculator/obj/Debug/net6.0/refint/Simplecalculator.dll
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.pdb
+/home/aman/Simplecalculator/obj/Debug/net6.0/Simplecalculator.genruntimeconfig.cache
+/home/aman/Simplecalculator/obj/Debug/net6.0/ref/Simplecalculator.dll
