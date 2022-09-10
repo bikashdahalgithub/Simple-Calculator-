@@ -29,6 +29,10 @@ switch (action){
         result = Division(number1, number2);
         break;
     }
+    case 5:{
+        result = Remainder(number1, number2);
+        break;
+    }
     default:
     Console.WriteLine("Sorry Invalid Input:");
     break;
@@ -53,6 +57,11 @@ int Multiplication(int number1, int number2)
 int Division(int numbe1, int number2)
 {
     int result = number1 / number2;
+    return result;
+}
+int Remainder(int number1, int number2)
+{
+    int result = number1 % number2;
     return result;
 }
 
