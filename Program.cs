@@ -2,7 +2,7 @@
 Console.WriteLine("Enter the action to be performed");
 Console.WriteLine("1 for Addition");
 Console.WriteLine("2 for Subtraction");
-Console.WriteLine("3 for Multiplictation");
+Console.WriteLine("3 for Multiplication");
 Console.WriteLine("4 for Division");
 Console.WriteLine("5 for Remainder After Division");
 int action = int.Parse (Console.ReadLine());
@@ -25,6 +25,10 @@ switch (action){
         result = Multiplication(number1, number2);
         break;
     }
+    case 4:{
+        result = Division(number1, number2);
+        break;
+    }
     default:
     Console.WriteLine("Sorry Invalid Input:");
     break;
@@ -44,6 +48,11 @@ int Subtraction(int number1,int number2)
 int Multiplication(int number1, int number2)
 {
     int result = number1 * number2;
+    return result;
+}
+int Division(int numbe1, int number2)
+{
+    int result = number1 / number2;
     return result;
 }
 
