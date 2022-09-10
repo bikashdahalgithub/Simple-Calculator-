@@ -21,6 +21,10 @@ switch (action){
         result = Subtraction(number1, number2);
         break;
     }
+    case 3:{
+        result = Multiplication(number1, number2);
+        break;
+    }
     default:
     Console.WriteLine("Sorry Invalid Input:");
     break;
@@ -35,6 +39,11 @@ int Addition(int number1, int number2)
 int Subtraction(int number1,int number2)
 {
     int result = number1 - number2;
+    return result;
+}
+int Multiplication(int number1, int number2)
+{
+    int result = number1 * number2;
     return result;
 }
 
